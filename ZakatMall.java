@@ -2,7 +2,7 @@ package pbo;
 
 import java.util.Scanner;
 
-public class Zakat {
+public class ZakatMall {
     public static void main(String[] args) {
         System.out.println("=========================================");
         System.out.println("Nama\t: Muh Bayu Adjie Nugroh");
