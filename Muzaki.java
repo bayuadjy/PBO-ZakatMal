@@ -1,5 +1,4 @@
-
-package zakat;
+package ZakatMal;
 
 public class Muzaki {
         private String nama;
